@@ -10,6 +10,7 @@
 ||www.elakiri.com/pics/automobile/redigo_review_elakiri.jpg
 ||www.elakiri.com/pics/automobile/wagonr_review_elakiri.jpg
 ||www.elakiri.com/pics/automobile/kwid_review_elakiri.jpg
+||xhamsterlive.com/api/external/v1/banner/underplayer_straight
 ||www.elakiri.com/pics/automobile/prado_review_elakiri.jpg
 ||www.elakiri.com/pics/events/rhythm/rhythm_world_onstage_final.jpg
 ||www.elakiri.com/pics/other/elakiri_chat.png
