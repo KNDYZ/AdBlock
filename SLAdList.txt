@@ -29,3 +29,4 @@ www.lankadeepa.lk###hsbc-credit-card-banner-container
 ||www.divaina.com/images/Divaina_idd.gif$image
 ||www.divaina.com/images/Kandos.gif$image
 ||nethnews.lk/images/articles/2017/01/Pulse-324x1501-1.png$image
+||i.imgur.com/xGM0rmi.gif$image
