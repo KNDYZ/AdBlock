@@ -25,8 +25,9 @@
 ||hiru.digital/pitbull/gt-280.gif
 ||i.imgur.com/1OYgVVv.jpg
 ###disableAdPic
-www.lankadeepa.lk###hsbc-credit-card-banner-container
-www.lankadeepa.lk###hsbc-credit-card-banner-container
+||www.lankadeepa.lk###hsbc-credit-card-banner-container
+||www.hirunews.lk/images/en_alerts.gif$image
+||hiru.digital/avurudu2017/avurud_banners/gold_535x150.jpg$image
 ||www.divaina.com/images/Divaina_idd.gif$image
 ||www.divaina.com/images/Kandos.gif$image
 ||nethnews.lk/images/articles/2017/01/Pulse-324x1501-1.png$image
