@@ -1,4 +1,5 @@
 ||i.imgur.com/0ZzvXdw.png
+###openModal0
 ||www.ananmanan.lk/banners/SLT.gif
 ||www.ananmanan.lk/banners/seylan/selfie-300x250.gif
 ||www.ananmanan.lk/banners/combank/index.html
@@ -42,6 +43,7 @@ www.gossiplankanews.com##.rimage > table
 ||hiru.digital/pitbull/480-2.jpg
 ||hiru.digital/megastars/1170-df.gif
 ||hiru.digital/pitbull/gt-280.gif
+www.lankadeepa.lk###openModal0
 ||i.imgur.com/1OYgVVv.jpg
 ###disableAdPic
 ||www.lankadeepa.lk###hsbc-credit-card-banner-container
