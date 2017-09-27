@@ -67,3 +67,4 @@ www.lankadeepa.lk###openModal0
 ||nethnews.lk/images/articles/2017/01/Pulse-324x1501-1.png$image
 ||i.imgur.com/xGM0rmi.gif$image
 ||static.lankadeepa.lk/assets/uploads/advr_7485703249.jpg
+##.quiz-embed.quiz-container
