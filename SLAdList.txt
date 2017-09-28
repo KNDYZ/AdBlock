@@ -68,3 +68,4 @@ www.lankadeepa.lk###openModal0
 ||i.imgur.com/xGM0rmi.gif$image
 ||static.lankadeepa.lk/assets/uploads/advr_7485703249.jpg
 ##.quiz-embed.quiz-container
+||static.lankadeepa.lk/assets/uploads/advr_005d8d785a.jpg
