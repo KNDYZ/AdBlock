@@ -33,9 +33,8 @@ www.gossiplankanews.com##.rimage > table > tbody > tr:nth-of-type(2)
 www.gossiplankanews.com##.rimage > table
 ||2.bp.blogspot.com/-KUDHGEb1Sjw/WCMcthcT55I/AAAAAAADOKU/fUNEC2HFgQA4B4mpUpNV48bLVsXgU97HgCLcB/s1600/col3negbanner.gif
 ||i.imgur.com/3szkdxy.png
-||static.lankadeepa.lk/assets/uploads/advr_*
+http://static.lankadeepa.lk/assets/uploads/advr_*
 ||cdn.srilankamirror.com/images/banners/2017/Face-Book-Setup-01.gif
-
 ||i.imgur.com/0ZzvXdw.png
 ||static.lankadeepa.lk/assets/uploads/advr_be202e5af6.jpg
 ||i.imgur.com/EB7ucvD.jpg
