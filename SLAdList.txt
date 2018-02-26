@@ -29,6 +29,12 @@ forum.xda-developers.com###block_message_wrapper
 ||i.imgur.com/G9IhomH.gif
 ||i.imgur.com/Mwfkeo3.jpg
 ||i.imgur.com/nwwUM23.gif
+||hiru.digital/reality/1170-dancer-dflt2.jpg
+||hiru.digital/gossip_slider/thamath_adare_dfl.png
+||hiru.digital/hirutakiyanna/1170-hi2.gif
+||gossip.hirufm.lk/data/121tharu/slide_1510907136_One%202%20One%20-%20Geetha.jpg
+||hiru.digital/superhero/vote_now_11.gif
+||hiru.digital/shaa-walampuriya/shaa-walapmuri3.jpg
 www.gossiplankanews.com##.rimage > table > tbody > tr:nth-of-type(2)
 www.gossiplankanews.com##.rimage > table
 ||2.bp.blogspot.com/-KUDHGEb1Sjw/WCMcthcT55I/AAAAAAADOKU/fUNEC2HFgQA4B4mpUpNV48bLVsXgU97HgCLcB/s1600/col3negbanner.gif
