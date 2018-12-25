@@ -69,6 +69,15 @@ http://static.lankadeepa.lk/assets/uploads/advr_*
 www.lankadeepa.lk###openModal0
 ||i.imgur.com/1OYgVVv.jpg
 ###disableAdPic
+##.three-rows.rectangle.wid-cams-widget
+##.rendered.underplayer.wid-cams-widget
+##.premium-overlay
+##div.sectionWrapper:nth-of-type(3)
+###streamMateModel
+##.flex-element.wid-spot-container.static.right-rectangle
+##.rendered.vertical.wid-cams-widget
+##.rendered.rectangle.wid-cams-widget
+##.list-items.wid-spot-container.right-rectangle
 ||www.lankadeepa.lk###hsbc-credit-card-banner-container
 ||www.hirunews.lk/images/en_alerts.gif$image
 ||hiru.digital/avurudu2017/avurud_banners/gold_535x150.jpg$image
