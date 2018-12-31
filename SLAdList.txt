@@ -13,6 +13,11 @@ http://tqxzz.exclusiverewards.herx.gdn/*
 ||static.lankadeepa.lk/assets/uploads/advr_ecb7a16e0e.jpg$image
 ||www.facebook.com/v2.10/plugins/video.php?app_id=368450703487926&channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F0sTQzbapM8j.js%3Fversion%3D42%23cb%3Df3eebcf1c30f6fe%26domain%3Dwww.lankadeepa.lk%26origin%3Dhttp%253A%252F%252Fwww.lankadeepa.lk%252Ff3fc9ade481f184%26relation%3Dparent.parent&container_width=301&href=https%3A%2F%2Fwww.facebook.com%2FWNOWsinhala%2Fvideos%2F519542408392041%2F&locale=en_US&sdk=joey&show_text=false&width=300$subdocument
 ||static.lankadeepa.lk/assets/uploads/advr_be202e5af6.jpg
+www.lankahotnews.net###sidebarright
+www.lankahotnews.net###sidebarleft
+www.lankahotnews.net###crosscol
+||3.bp.blogspot.com/-uEDAkDn_2qk/WZUlCah_zsI/AAAAAAADidc/Yi68MzyKBpk7NYBcdqmX2BFue-7V1t3WwCLcBGAs/s1600/510%2Bx%2B60%2Bpx.png$image
+www.lankahotnews.net###Blog1 > div:nth-of-type(3) > center
 ||static.lankadeepa.lk/assets/uploads/advr_87e0e559e0.jpg
 ||static.lankadeepa.lk/assets/uploads/advr_abefdc1489.jpg
 http://announcement.slt.lk/advertisement/*
