@@ -1,11 +1,13 @@
 ||i.imgur.com/0ZzvXdw.png
 ||static.lankadeepa.lk/assets/uploads/advr_005d8d785a.jpg$image
 ##.promo-message__with-button.promo-message__banner.promo-message
+###crosscol-wrapper
 ##.rendered.two-rows.rectangle.wid-cams-widget > .item-container
 ##.rendered.two-rows.rectangle.wid-cams-widget
 ||static.lankadeepa.lk/assets/uploads/advr_ecb7a16e0e.jpg$image
 http://tqxzz.exclusiverewards.herx.gdn/*
 ||static.lankadeepa.lk/assets/uploads/image_040499b338.jpg$image
+||nethfm.lk/banners/nippon/*  
 ##.promo-message__with-button.promo-message__banner.promo-message > .width-wrap
 ##.wid-spot-container.no-popunder.wid-static-banner.right-rectangle--backing.right-rectangle
 ||static.lankadeepa.lk/assets/uploads/advr_ecb7a16e0e.jpg$image
