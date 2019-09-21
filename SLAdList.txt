@@ -6,6 +6,7 @@ xhamster.com##.wil-spot-container.no-popunder.wil-static-banner.right-rectangle-
 ||static.lankadeepa.lk/assets/uploads/advr_005d8d785a.jpg$image
 ##.promo-message__with-button.promo-message__banner.promo-message
 ###crosscol-wrapper
+xhamster.com##.rendered.horizontal.as-width-wrap.wil-cams-widget
 ##.rendered.two-rows.rectangle.wid-cams-widget > .item-container
 ##.rendered.two-rows.rectangle.wid-cams-widget
 ||static.lankadeepa.lk/assets/uploads/advr_ecb7a16e0e.jpg$image
