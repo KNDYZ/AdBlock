@@ -91,6 +91,8 @@ http://static.lankadeepa.lk/assets/uploads/advr_*
 ||hiru.digital/peoples_award/480.gif
 ||www.hirutv.lk/megastar_widget/index.php
 ||hiru.digital/megastars/teamwidget/
+sinhala.adaderana.lk##div.visible-xs.mobile-only.advert:nth-of-type(4) > .center
+
 ||hiru.digital/kawurunda_numba_mage/300-3.jpg
 ||hiru.digital/pitbull/480-2.jpg
 ||hiru.digital/megastars/1170-df.gif
@@ -112,7 +114,9 @@ www.lankadeepa.lk###openModal0
 ||hiru.digital/avurudu2017/avurud_banners/gold_535x150.jpg$image
 ||www.divaina.com/images/Divaina_idd.gif$image
 ||www.divaina.com/images/Kandos.gif$image
-||nethnews.lk/images/articles/2017/01/Pulse-324x1501-1.png$image
+sinhala.adaderana.lk##div.visible-xs.mobile-only.advert:nth-of-type(4) > .center
+
+nethnews.lk/images/articles/2017/01/Pulse-324x1501-1.png$image
 ||i.imgur.com/xGM0rmi.gif$image
 ||static.lankadeepa.lk/assets/uploads/advr_7485703249.jpg
 ##.quiz-embed.quiz-container
