@@ -1,5 +1,6 @@
 ||ftp.adstudio.cloud/*
 www.dailymirror.lk###myModal1
+www.dailymirror.lk##.d-lg-block.d-none.text-center > p
 ||i.imgur.com/0ZzvXdw.png
 xhamster.com##.rendered.rectangle.wil-cams-widget
 xhamster.com##.wil-spot-container.no-popunder.wil-static-banner.right-rectangle--backing.right-rectangle
