@@ -1,1 +1,26 @@
-
+sinhala.adaderana.lk##div.grid-item.col-lg-12.col-sm-6.col-xs-12.hidden-xs.advert:nth-of-type(2)
+sinhala.adaderana.lk##.col-lg-7.col-sm-8.col-xs-12 > .row
+www.dailymirror.lk##.lrthreehun.col-sm-6.col-md-6.col-lg-3.col-xl-3
+www.gossiplankanews.com##div.rimage:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+www.gossiplankanews.com##div.rimage:nth-of-type(2) > table
+www.gossiplankanews.com###HTML19
+www.gossiplankanews.com##.sociel_boda > table
+gossip.hirufm.lk##.hidden-sm.hidden-xs.col-md-12 > .socialmediaic
+www.gossiplanka.com##div.rimage:nth-of-type(3) > table
+www.gossiplanka.com##div.rimage:nth-of-type(2) > table
+||1.bp.blogspot.com/-Xy9vBjb69Pk/XhacdIT7AZI/AAAAAAAAHuI/MUzAlHREEQoHRX2RtiFCrLYJd9gxrlLHwCLcBGAsYHQ/s1600/gl.jpg$image
+www.gossiplanka.com###footer > table
+||1.bp.blogspot.com/-CLOXi_vGLNA/Xacc3XbxzFI/AAAAAAAAJBY/IMHfXNLofAMWa8QGq2mw9zmJP8YSSokfgCLcBGAsYHQ/s1600/idlq.png$image
+www.gossiplanka.com###HTML4 > .widget-content
+www.gossiplanka.com##.sociel_boda > table
+||4.bp.blogspot.com/-64vQgKD7Vi4/Xl9H8bq_A2I/AAAAAAAC2jg/UK9ilKtRVUYSExqcgD0g8zyxR8ax8mBNACLcBGAsYHQ/s1600/thai-boy.gif$image
+||4.bp.blogspot.com/-WQV1QpW6qBM/V10hWkZw-BI/AAAAAAAC8UE/kvzv8M49DDgztmopE_Jk01vlgPQkDxvowCLcB/s1600/lankahotnews%2Badvertising.gif$image
+www.lankahotnews.net##[href="https://www.worldbnews.com/zbiz/hub/04/"]
+www.lankahotnews.net###HTML13 > .title
+www.lankahotnews.net###HTML15 > .title
+||3.bp.blogspot.com/-VEj1sC_bItc/WoO2nMgTLII/AAAAAAADtiM/7GUqaeP-hYM3Ss_2Fw-ugjMhSDy-nqS2gCLcBGAs/s1600/adbg.png$image
+www.lankahotnews.net###HTML4 > .widget-content > div
+www.lankahotnews.net###HTML10 > .widget-content > center
+www.lankahotnews.net###HTML3 > .widget-content > center:nth-of-type(1)
+www.lankahotnews.net##center:nth-of-type(2) > center
+www.adaderana.lk##.col-lg-7.col-sm-8.col-xs-12 > .row
