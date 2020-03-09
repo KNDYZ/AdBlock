@@ -28,3 +28,7 @@ www.lankadeepa.lk##.pull-right.pleft.col-md-5
 www.lankadeepa.lk##div.hidden-sm.hidden-xs.row:nth-of-type(1) > center
 ||ftp.adstudio.cloud/*$image
 www.lankadeepa.lk##.adstudio_html_icon
+www.dailymirror.lk###brnews4div > center > div
+www.lankadeepa.lk###brnews3div > center
+www.dailymirror.lk##.w-100.d-sm-none.d-block.top-ad.text-center.header
+www.dailymirror.lk##.showmore_content > .d-md-none.col-xl-12
