@@ -32,3 +32,6 @@ www.dailymirror.lk###brnews4div > center > div
 www.lankadeepa.lk###brnews3div > center
 www.dailymirror.lk##.w-100.d-sm-none.d-block.top-ad.text-center.header
 www.dailymirror.lk##.showmore_content > .d-md-none.col-xl-12
+xhamster.com##div.related-container:nth-of-type(10)
+xhamster.com##div.related-container:nth-of-type(11)
+xhamster.com##.premium-overlay
