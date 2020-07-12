@@ -36,3 +36,6 @@ xhamster.com##div.related-container:nth-of-type(10)
 xhamster.com##div.related-container:nth-of-type(11)
 xhamster.com##.premium-overlay
 www.lankadeepa.lk##center > p
+||redd.it/*.m3u8^$xhr,domain=reddit.com
+||strapi.reddit.com^$xhr,domain=reddit.com
+reddit.com##a[href^="/rpan/r/"]>h3:has-text(Top broadcast right now):nth-ancestor(7)
